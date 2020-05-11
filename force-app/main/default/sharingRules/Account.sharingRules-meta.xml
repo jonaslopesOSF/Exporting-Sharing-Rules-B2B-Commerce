@@ -22,5 +22,5 @@
 </SharingRules>
 
 <!-- To be able to find the Site Guest User Nickname, follow this path in the Lightning experience
-Setup -> All Communities -> Worskspace -> Administration -> Pages -> Go to force.com 
--> Public Access Settings -> Assigned Users -> Click in the guest user -> Nickname
+Setup -> All Communities -> Workspace (Default Store) -> Administration -> Pages -> Go to Force.com ->
+ Public Access Settings -> Assigned Users -> Click in the guest user -> Nickname
