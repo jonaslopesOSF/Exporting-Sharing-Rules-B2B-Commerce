@@ -9,7 +9,7 @@
         </sharedTo>
         <criteriaItems>
             <field>ownerId</field>
-            <operation>starstWith</operation>
+            <operation>startsWith</operation>
             <value>15digitUserID</value> <!-- The Default CC Owner User - first 15 characteres of the ID.-->
         </criteriaItems>
     </sharingGuestRules>
